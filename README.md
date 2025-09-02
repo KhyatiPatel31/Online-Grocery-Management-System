@@ -112,11 +112,3 @@ grocery_shopping/
 
 ---
 
-## 👨‍💻 Author
-
-* **Khyati Patel**
-  (MCA Student – LDRP Institute of Technology & Research, Gandhinagar)
-
----
-
-
